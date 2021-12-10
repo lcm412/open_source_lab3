@@ -1,7 +1,11 @@
 # open_source_lab3
 
-doc > 1. docker 보고서
+doc: 
+
+      1. docker 보고서
+
       2. ppt
+      
       3. 최종보고서
 
 docker hub 링크
